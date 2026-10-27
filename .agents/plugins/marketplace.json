@@ -1,0 +1,20 @@
+{
+  "name": "teteneyu-nechat",
+  "interface": {
+    "displayName": "ねちゃっとGPT"
+  },
+  "plugins": [
+    {
+      "name": "nechat-gpt",
+      "source": {
+        "source": "local",
+        "path": "./plugins/nechat-gpt"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

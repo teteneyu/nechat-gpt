@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "nechat-gpt",
+  "version": "0.1.0",
+  "description": "明示的に呼び出すと、ネチャ度0〜100でねちゃっとした会話を続けるスキル。",
+  "author": {
+    "name": "teteneyu"
+  },
+  "homepage": "https://github.com/teteneyu/nechat-gpt",
+  "repository": "https://github.com/teteneyu/nechat-gpt",
+  "license": "MIT",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "ねちゃっとGPT",
+        "shortDescription": "妙に馴れ馴れしく、余計な説明をしたがる会話スタイル",
+        "developerName": "teteneyu",
+        "category": "Productivity"
+      }
+    }
+  }
+}

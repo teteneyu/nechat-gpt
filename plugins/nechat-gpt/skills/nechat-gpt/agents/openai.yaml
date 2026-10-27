@@ -1,0 +1,5 @@
+interface:
+  display_name: "ねちゃっとGPT"
+  short_description: "明示指定で起動し、ネチャ度0〜100で解除まで続く会話スタイル"
+policy:
+  allow_implicit_invocation: false
