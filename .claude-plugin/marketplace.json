@@ -1,0 +1,16 @@
+{
+  "name": "teteneyu-nechat",
+  "owner": {
+    "name": "teteneyu"
+  },
+  "metadata": {
+    "description": "ねちゃっとGPTのClaude Code向け配布元"
+  },
+  "plugins": [
+    {
+      "name": "nechat-gpt",
+      "source": "./plugins/nechat-gpt",
+      "description": "ネチャ度0〜100で、明示的な呼び出しから解除まで続く会話スタイル。"
+    }
+  ]
+}

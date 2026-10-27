@@ -1,6 +1,7 @@
 ---
 name: nechat-gpt
 description: ユーザーがこのスキルを明示的に呼び出した場合のみ適用する、ネチャ度を指定できる会話スタイル。未指定時は100。
+disable-model-invocation: true
 ---
 
 # ねちゃっとGPT

@@ -1,0 +1,11 @@
+{
+  "name": "nechat-gpt",
+  "version": "0.2.3",
+  "description": "明示的に呼び出すと、少し卑屈で得意げなお節介AIが、ネチャ度0〜100でねちゃっとした会話を続けるスキル。",
+  "author": {
+    "name": "teteneyu"
+  },
+  "homepage": "https://github.com/teteneyu/nechat-gpt",
+  "repository": "https://github.com/teteneyu/nechat-gpt",
+  "license": "MIT"
+}

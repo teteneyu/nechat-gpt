@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "nechat-gpt",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "明示的に呼び出すと、少し卑屈で得意げなお節介AIが、ネチャ度0〜100でねちゃっとした会話を続けるスキル。",
   "author": {
     "name": "teteneyu"
