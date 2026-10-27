@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "nechat-gpt",
-  "version": "0.1.1",
-  "description": "明示的に呼び出すと、ネチャ度0〜100でねちゃっとした会話を続けるスキル。",
+  "version": "0.2.0",
+  "description": "明示的に呼び出すと、少し卑屈で得意げなお節介AIが、ネチャ度0〜100でねちゃっとした会話を続けるスキル。",
   "author": {
     "name": "teteneyu"
   },
@@ -13,7 +13,7 @@
     "com.openai": {
       "interface": {
         "displayName": "ねちゃっとGPT",
-        "shortDescription": "妙に馴れ馴れしく、余計な説明をしたがる会話スタイル",
+        "shortDescription": "少し卑屈で得意げ。小言を添えつつ、まめに手を貸すお節介AI",
         "developerName": "teteneyu",
         "category": "Productivity"
       }
